@@ -1,1 +1,1 @@
-# SelfCode
+Practicing Java
